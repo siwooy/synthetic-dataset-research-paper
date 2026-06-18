@@ -1,0 +1,18 @@
+# Core training & inference
+torch>=2.1
+transformers>=4.44
+datasets>=2.20
+peft>=0.12
+trl>=0.9
+accelerate>=0.33
+bitsandbytes>=0.43
+
+# Evaluation
+evaluate>=0.4
+bert_score>=0.3.13
+textstat>=0.7
+tqdm>=4.66
+
+# Synthetic data generation (teacher model)
+google-genai>=0.3
+python-dotenv>=1.0

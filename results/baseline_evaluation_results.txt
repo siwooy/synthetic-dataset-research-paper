@@ -1,0 +1,9 @@
+==================================================
+Original Slang FK: Grade 6.3
+Original Slang Formality: 39.66%
+
+Base Model FK: Grade 16.0
+Base Model Formality: 90.31%
+Base Model BERTScore: 0.828
+==================================================
+
